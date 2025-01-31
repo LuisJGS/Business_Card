@@ -1,0 +1,32 @@
+body{
+    margin: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    color: rgb(7, 192, 7);
+    background-color: rgb(209, 245, 196);
+}
+
+.card{
+    width: 400px;
+    margin: 0 auto;
+    background-color: #363637;
+    border-bottom: solid rgb(7, 192, 7) 5px;
+    border-radius: 15px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.picture{
+    border-bottom: solid #000000 2px;
+    border-right: solid #000000 2px;
+    border-radius: 10px;
+    width: 150px;
+    height: 200px;
+}
+
+.text{
+    width: 150px;
+    height: 200px;
+}
